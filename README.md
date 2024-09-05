@@ -17,9 +17,9 @@ Développer le back-end du site
 
 ## Spécifications de l'API
 
-![spec1](/imagesreadme/spec1.png)
+![image](https://github.com/user-attachments/assets/6235cc41-6673-4e7a-b2d9-f4b6c1f8edbd).
 
-![spec2](/imagesreadme/spec2.png)
+![image](https://github.com/user-attachments/assets/9782bfe8-7604-4a00-972d-67ced0345b29)
 
 
 ## API Errors
